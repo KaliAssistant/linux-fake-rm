@@ -2,4 +2,4 @@
 Fake linux command 'rm' 
 
 ### Install
-```$ sudo chmod +x ./install.sh```
+```$ sudo chmod +x ./install.sh && sudo ./install.sh```
