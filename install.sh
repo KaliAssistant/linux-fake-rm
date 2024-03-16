@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-g++ ./rm.c -o rm
+g++ ./rm.cpp -o rm
